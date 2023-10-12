@@ -17,6 +17,7 @@ Install the required libraries:
 
 ```markdown
 pip install qrcode[pil] vobject Pillow
+```
 
 ## Usage
 
