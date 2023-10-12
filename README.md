@@ -1,6 +1,6 @@
 # Business Card QR Code Generator
 
-![QR Code](link-to-your-qr-code-image.png)
+![QR Code](contact_qr_code.png)
 
 Generate a QR code for your business card to make sharing your contact information easier.
 
@@ -25,4 +25,4 @@ pip install qrcode[pil] vobject Pillow
 - Run the script
 
 ```markdown
-python generate_qr_code.py
+python greencontact.py
